@@ -53,6 +53,7 @@ h3 {
 .button:hover {
     background-color:black;
     color:white;
+    box-shadow:rgba(255, 255, 255, 0.7) 0 0 90px 15px;
 }
 
 footer {
