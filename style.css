@@ -1,0 +1,61 @@
+/*stylesheet for the landing page of the GMW122 Final Project Gallery - 202430*/
+
+body {
+    background-color: grey;
+
+}
+
+#wrapper {
+    width:980px;
+    background-color:rgba(0, 0, 0, 0.7);
+    box-shadow: 0 2px 9px black;
+    color:white;
+    padding:20px;
+    margin:auto;
+}
+
+header {
+    margin-bottom: 20px;
+    text-align:center;
+}
+
+h3 {
+    text-align:center;
+}
+
+#content {
+    text-align:center;
+}
+
+.student {
+    padding-top:20px;
+    border:1px solid white;
+    margin:20px;
+    min-height:300px;
+    width:95%;
+}
+
+.button {
+    width:350px;
+    height:150px;
+    text-align:center;
+    line-height:150px;
+    float:left;
+    background-color:white;
+    color:black;
+    text-decoration:none;
+    font-size:24px;
+    position:relative;
+    left:285px;
+    
+}
+
+.button:hover {
+    background-color:black;
+    color:white;
+}
+
+footer {
+    color:white;
+    font-size:10px;
+}
